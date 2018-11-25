@@ -616,12 +616,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 20615b0f-b7dd-4718-a818-c26405a5f31c
-  projectName: Psynda (1)
-  organizationId: lucacelrazvan
+  cloudProjectId: fc399ec5-8d40-4c75-94e2-36ae23ff92e0
+  projectName: Psynda (2)
+  organizationId: unity_q-2ssfku5ccloq
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
